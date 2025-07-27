@@ -2,9 +2,9 @@
 
 A fast-paced arcade-style 2D shooting game where your reflexes matter. Blast enemies, dodge bullets, and survive waves of relentless action!
 
-🔗 [Play on Itch.io](https://taniksha-sh.itch.io/2d-shooter)
+🔗 [Play 2D Shooter on Itch.io](https://taniksha-sh.itch.io/2d-shooter)
 
-🔗 [Play on Itch.io](https://taniksha-sh.itch.io/2d-shooter-2)
+🔗 [Play 2D Shooter 2 on Itch.io](https://taniksha-sh.itch.io/2d-shooter-2)
 
 
 ---
@@ -34,10 +34,10 @@ Enemies will come at you from different directions. Your mission is to shoot the
 
 ## 📷 Screenshots
 
-![Menu](./screenshots/menu.png)
-![In-Game Action](./screenshots/level1.png)
-![In-Game Action](./screenshots/level2.png)
-![In-Game Action](./screenshots/level3.png)
+![Menu](./Screenshots/menu.png)
+![In-Game Action](./Screenshots/level1.png)
+![In-Game Action](./Screenshots/level2.png)
+![In-Game Action](./Screenshots/level3.png)
 
 ---
 

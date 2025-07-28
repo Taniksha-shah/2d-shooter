@@ -58,6 +58,6 @@ If you enjoyed the game or have suggestions/bugs to report, feel free to leave a
 
 ## 📄 License
 
-This project is for educational and portfolio purposes and build while following a game development course.
+This project is for educational and portfolio purposes and built while following a game development course.
 
 ---
